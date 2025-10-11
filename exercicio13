@@ -1,0 +1,8 @@
+<?php
+//  Verificação de senha
+do {
+    $senhaDigitada = readline("Digite a senha: ");
+} while ($senhaDigitada !== "1234");
+
+echo "Senha correta. Acesso liberado!\n";
+?>
