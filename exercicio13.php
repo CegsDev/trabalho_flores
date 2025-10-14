@@ -15,7 +15,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 08 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: verificador de senha 
 *******************************************************************************/
 do {
     $senhaDigitada = readline("Digite a senha: ");
