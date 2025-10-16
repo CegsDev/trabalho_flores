@@ -1,3 +1,4 @@
+<?php
 /******************************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
@@ -16,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo: Array associativo com nome e preço de cada produto.
 *******************************************************************************/
-<?php
 
 // (array associativo)
 $produtos = [
@@ -61,6 +61,7 @@ foreach ($produtos as $produto) {
 echo "\nTotal de todos os produtos: R$ " . number_format($total, 2, ',', '.') . "\n";
 
 ?>
+
 
 
 
