@@ -14,7 +14,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 16 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: Dado no formato "chave: valor".
 *******************************************************************************/
 <?php
 $aluno = [
@@ -45,4 +45,5 @@ foreach ($aluno as $chave => $valor) {
 // Rodapé
 echo str_repeat("=", 30) . "\n";
 ?>
+
 
