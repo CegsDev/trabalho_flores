@@ -14,7 +14,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 16 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: impressão do nome e preço de cada produto, com FOREACH Aninhado.
 *******************************************************************************/
 <?php
 
@@ -75,4 +75,5 @@ foreach ($categorias as $produtos) {
 echo "TOTAL GERAL: R$ " . number_format($totalGeral, 2, ',', '.') . "\n";
 
 ?>
+
 
