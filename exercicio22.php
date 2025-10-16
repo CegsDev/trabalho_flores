@@ -1,3 +1,4 @@
+<?php
 /******************************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
@@ -16,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo: Dado no formato "chave: valor".
 *******************************************************************************/
-<?php
 $aluno = [
     "nome" => "Maikon Duarte",
     "idade" => 20,
@@ -45,5 +45,6 @@ foreach ($aluno as $chave => $valor) {
 // Rodapé
 echo str_repeat("=", 30) . "\n";
 ?>
+
 
 
