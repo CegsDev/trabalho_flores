@@ -1,3 +1,4 @@
+<?php
 /******************************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
@@ -16,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo:  Array com os 7 dias da semana.
 *******************************************************************************/
-<?php
 // Array com os 7 dias da semana
 $dias_da_semana = array("Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado");
 
@@ -25,5 +25,6 @@ for ($i = 0; $i < count($dias_da_semana); $i++) {
     echo $dias_da_semana[$i] . "\n";
 }
 ?>
+
 
 
