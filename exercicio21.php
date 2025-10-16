@@ -14,7 +14,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 16 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: Array associativo para armazenar os dados de um aluno.
 *******************************************************************************/
 <?php
 $aluno = array(
@@ -28,4 +28,5 @@ echo "Nome: " . $aluno["nome"] . "\n";
 echo "Idade: " . $aluno["idade"] . "\n";
 echo "Curso: " . $aluno["curso"] . "\n";
 ?>
+
 
