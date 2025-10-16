@@ -17,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo: Calculo e imprissão da soma de todos os números.
 *******************************************************************************/
-
 // Cria um array com 10 números inteiros
 $numeros = [5, 12, 8, 21, 1, 99, 42, 7, 15, 30];
 
@@ -25,5 +24,6 @@ $numeros = [5, 12, 8, 21, 1, 99, 42, 7, 15, 30];
 echo "A soma de todos os números é: " . array_sum($numeros);
 
 ?>
+
 
 
