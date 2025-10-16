@@ -14,7 +14,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 16 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo:  Array com os 7 dias da semana.
 *******************************************************************************/
 <?php
 // Array com os 7 dias da semana
@@ -25,4 +25,5 @@ for ($i = 0; $i < count($dias_da_semana); $i++) {
     echo $dias_da_semana[$i] . "\n";
 }
 ?>
+
 
