@@ -1,3 +1,4 @@
+<?php
 /******************************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
@@ -16,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo: Array associativo para armazenar os dados de um aluno.
 *******************************************************************************/
-<?php
 $aluno = array(
     "nome" => "Maikon Duarte",
     "idade" => 20,
@@ -28,5 +28,6 @@ echo "Nome: " . $aluno["nome"] . "\n";
 echo "Idade: " . $aluno["idade"] . "\n";
 echo "Curso: " . $aluno["curso"] . "\n";
 ?>
+
 
 
