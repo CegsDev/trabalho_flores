@@ -1,6 +1,6 @@
 <?php
 
-// Array de produtos (array associativo)
+// (array associativo)
 $produtos = [
     [
         "nome" => "Notebook SAMSUNG GalaxyBook 2",
@@ -15,7 +15,7 @@ $produtos = [
         "preco" => 150.00
     ],
     [
-        "nome" => "Monitor LG 24"",
+        "nome" => "Monitor LG 24",
         "preco" => 890.50
     ],
     [
@@ -43,3 +43,4 @@ foreach ($produtos as $produto) {
 echo "\nTotal de todos os produtos: R$ " . number_format($total, 2, ',', '.') . "\n";
 
 ?>
+
