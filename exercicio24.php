@@ -1,3 +1,4 @@
+<?php
 /******************************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
@@ -16,7 +17,6 @@ Componentes:
 Data: 16 de Outubro de 2025
 Descritivo: impressão do nome e preço de cada produto, com FOREACH Aninhado.
 *******************************************************************************/
-<?php
 
 // Array de produtos organizados por categorias
 $categorias = [
@@ -75,5 +75,6 @@ foreach ($categorias as $produtos) {
 echo "TOTAL GERAL: R$ " . number_format($totalGeral, 2, ',', '.') . "\n";
 
 ?>
+
 
 
