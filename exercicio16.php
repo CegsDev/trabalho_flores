@@ -17,7 +17,6 @@ Componentes:
 Data: 11 de Outubro de 2025
 Descritivo: lista de cidades
 *******************************************************************************/
-// 16. Lista de cidades
 $cidades = ["Fortaleza", "Recife", "Natal", "João Pessoa", "Maceió"];
 print_r($cidades);
 ?>
