@@ -14,7 +14,7 @@ Componentes:
 25201449-2 - Luan Raio Amorim 
 
 Data: 08 de Outubro de 2025
-Descritivo: Crie um procedimento mostrarTabuada que receba um número e imprima sua tabuada de 1 a 10
+Descritivo: Crie um procedimento mostrarTabuada que receba um número e imprima sua tabuada de 1 a 10.
 ***************************/
 // digite o seu número aqui;
 $numero = 7;  
@@ -28,3 +28,4 @@ if(is_numeric($numero)) {
     echo "Por favor, insira um número válido.\n";
 }
 ?>
+
