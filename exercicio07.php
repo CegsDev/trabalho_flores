@@ -15,7 +15,7 @@ Componentes:
  25178371-2 - Pedro Henrique Santos Sinhuk
 
 Data: 08 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: Crie um programa que peça ao usuário para adivinhar um número (ex: 7) e continue pedindo até que ele acerte.
 *******************************************************************************/
 
 //Número para adivinhar
@@ -31,5 +31,6 @@ Descritivo: Descrição da atividade feita
 }
     //Número correto
         echo "Correto, parabéns!.\n";
+
 
 ?>
