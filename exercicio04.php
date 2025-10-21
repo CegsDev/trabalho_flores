@@ -18,7 +18,8 @@ Data: 19 de Outubro de 2025
 Descritivo: Contar de 10 a 1 em ordem decrescente com for
 ***************************/
 
-for ($d = 10; $d >= 1; $i--) {
-    echo $i . "\n";
+for ($d = 10; $d >= 1; $d--) {
+    echo $d . "\n";
 }
 ?>
+
