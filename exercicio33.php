@@ -1,5 +1,5 @@
 <?php
-//**************************
+/**************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
 Professor: Flores
@@ -15,7 +15,7 @@ Componentes:
 
 Data: 08 de Outubro de 2025
 Descritivo: Crie um procedimento mostrarTabuada que receba um número e imprima sua tabuada de 1 a 10
-***************************//
+***************************/
 // digite o seu número aqui;
 $numero = 7;  
 
