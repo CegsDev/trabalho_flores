@@ -14,7 +14,7 @@ Componentes:
 25201449-2 - Luan Raio Amorim 
 
 Data: 08 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: Elabore um procedimento verificarParImpar que receba um número e imprima se ele é "Par" ou "Ímpar".
 ***************************/
 function verificarParImpar($numero) {
     if (!is_numeric($numero)) {
@@ -35,3 +35,4 @@ $numero = 13;
 // Aqui vai verificar se o número é par ou ímpar;
 verificarParImpar($numero);
 ?>
+
