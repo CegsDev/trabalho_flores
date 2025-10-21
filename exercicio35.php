@@ -14,7 +14,7 @@ Componentes:
 25201449-2 - Luan Raio Amorim 
 
 Data: 08 de Outubro de 2025
-Descritivo: Descrição da atividade feita
+Descritivo: : Crie um procedimento imprimirArray que receba um array e imprima todos os seus elementos.
 ***************************/
 function imprimirArray($array) {
     if (!is_array($array)) {
@@ -32,3 +32,4 @@ $meuArray = [10, 20, 30, 40, 50];
 
 imprimirArray($meuArray);
 ?>
+
